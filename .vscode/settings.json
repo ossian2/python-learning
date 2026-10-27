@@ -1,0 +1,17 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": false,
+  "editor.inlineSuggest.enabled": false,
+  "python.defaultInterpreterPath": "C:\\Users\\runnz\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "python.analysis.typeCheckingMode": "off",
+  "workbench.sideBar.location": "left",
+  "files.exclude": {
+    "**/day*_*.py": true,
+    "**/first_program.py": true,
+    "**/SCHEM": true,
+    "exercises/[0-9][0-9]_*.py": true,
+    "projects/[0-9][0-9]_*.py": true
+  }
+}

@@ -3,3 +3,8 @@ __pycache__/
 .venv/
 venv/
 .env
+# Old practice files and generated scaffolds are not part of the Bro Code project
+exercises/day*_*.py
+projects/first_program.py
+exercises/[0-9][0-9]_*.py
+projects/[0-9][0-9]_*.py
